@@ -8,7 +8,7 @@ import (
 	"github.com/microcosm-cc/bluemonday"
 	"github.com/qanx/gopress/customcss"
 	"github.com/russross/blackfriday"
-	"github.com/shurcooL/go/github_flavored_markdown"
+	"github.com/shurcooL/github_flavored_markdown"
 )
 
 func separateSlides(inputHTML string) string {
